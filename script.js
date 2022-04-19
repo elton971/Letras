@@ -34,6 +34,7 @@ function main() {
         }
         else{
             traduzida=resultado.mus[0].translate[0].text;
+            
         }
         
         display.innerHTML="";
